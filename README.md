@@ -45,5 +45,4 @@ If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how
 In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 You can view my code here
-
-https://github.com/FaithOIgwe/Data-Analysis-and-Database-Querying-using-SQL/blob/main/Danny's%20Diner%208%20week%20SQL%20CHALLENGE
+https://github.com/FaithOIgwe/Danny-s-Dinner-8-weeks-SQL-Challenge/blob/main/%23week%201%20Danny's%20Dinner%208-WEEK%20SQL%20challenge.sql
